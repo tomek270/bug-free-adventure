@@ -33,4 +33,4 @@ ping $address -t | ForEach-Object {
     }
 
 
-    
+    Write-Host "Koniec skryptu"
